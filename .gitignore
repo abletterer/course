@@ -1,0 +1,15 @@
+
+.DS_Store
+
+*.o
+*.swp
+
+BaseCode/ddg
+Connection/connection
+Elasticity/elasticity
+Fairing/fairing
+Flatten/flatten
+Geodesics/geodesics
+Hot2/hot2
+
+Data/*
